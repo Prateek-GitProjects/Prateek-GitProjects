@@ -43,7 +43,7 @@
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,python,php,javascript,kotlin" /><br/>
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,react,puter,nextjs,nodejs,express,mongodb,mysql" /><br/>
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,react,puterjs,nextjs,nodejs,express,mongodb,mysql" /><br/>
   <img src="https://skillicons.dev/icons?i=docker,jenkins,linux,git,github,firebase,figma,postman" /><br/>
   <img src="https://skillicons.dev/icons?i=unity,matlab,photoshop" />
 </p>
