@@ -74,23 +74,20 @@ Here are some of my main repositories:
   <a href="https://github.com/Prateek-GitProjects/FlashCart-App">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Prateek-GitProjects&repo=FlashCart-App&theme=tokyonight" />
   </a>
+</p>
+
+<p align="center">
   <a href="https://github.com/Prateek-GitProjects/Linkdock-All-your-links-one-smart-hub">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Prateek-GitProjects&repo=Linkdock-All-your-links-one-smart-hub&theme=tokyonight" />
   </a>
-</p>
-
-<p align="center">
   <a href="https://github.com/Prateek-GitProjects/Password-Manager-A-MERN-Stack-Project">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Prateek-GitProjects&repo=Password-Manager-A-MERN-Stack-Project&theme=tokyonight" />
   </a>
-  <a href="https://github.com/Prateek-GitProjects/Bytelinks-URL-Shortener">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Prateek-GitProjects&repo=Bytelinks-URL-Shortener&theme=tokyonight" />
-  </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/Prateek-GitProjects/iTask-Manager">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Prateek-GitProjects&repo=iTask-Manager&theme=tokyonight" />
+  <a href="https://github.com/Prateek-GitProjects/Bytelinks-URL-Shortener">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Prateek-GitProjects&repo=Bytelinks-URL-Shortener&theme=tokyonight" />
   </a>
   <a href="https://github.com/Prateek-GitProjects/RockStar-Player">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Prateek-GitProjects&repo=RockStar-Player&theme=tokyonight" />
