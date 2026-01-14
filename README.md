@@ -101,7 +101,7 @@ Here are some of my main repositories:
 ### 🏆 GitHub Trophies  
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=prateek-gitprojects&theme=algolia&margin-w=15&margin-h=15&column=6" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=prateek-gitprojects&theme=darkhub&column=4" />
 </p>
 
 ---
