@@ -106,6 +106,10 @@ Here are some of my main repositories:
 
 ---
 
+<img src="https://raw.githubusercontent.com/Prateek-GitProjects/Prateek-GitProjects/output/snake.svg" alt="Snake animation" />
+
+###
+
 ### 📈 Activity Graph  
 
 <p align="center">
