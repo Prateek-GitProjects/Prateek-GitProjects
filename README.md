@@ -106,6 +106,8 @@ Here are some of my main repositories:
 
 ---
 
+### 🐍 Snake Contribution
+
 <img src="https://raw.githubusercontent.com/Prateek-GitProjects/Prateek-GitProjects/output/snake.svg" alt="Snake animation" />
 
 ###
