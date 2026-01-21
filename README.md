@@ -112,6 +112,8 @@ Here are some of my main repositories:
 
 ###
 
+---
+
 ### 📈 Activity Graph  
 
 <p align="center">
